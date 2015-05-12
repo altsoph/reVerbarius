@@ -6,7 +6,7 @@ reVerbarius is a fun pet project, based on modification of [Lebedev's verbarius 
 Here you can find some scripts, helpful for analysis and generation of verbarius firmware.
 The major dependence for all scripts is [the pygame library](http://www.pygame.org/), used for drawing.
 
-Solid description and some demos could be found on [the project's page](http://altsoph.com/projects/reverbarius/)
+The solid description and some demos could be found on [the project's page](http://altsoph.com/projects/reverbarius/)
 
 ## firmware analysis script
 > tune_format.py
